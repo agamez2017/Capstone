@@ -1,0 +1,29 @@
+body{
+    background-color:#afc3ff;
+    }
+#title{
+    top: 100%;
+    text-align: center;
+    color:#f9edff;
+    }
+#ball{
+    background-color:red;
+    height:50px;
+    width:50px;
+    border-radius:50px;
+    }
+#gamebox{
+    background-color:#bcb5bf;
+    height: 500px;
+    width: 600px;
+    margin: 0 auto;
+    position: relative;
+    border: 20px solid black;
+    text-align:center;
+    }
+#scorebox{
+    height: 50px;
+    width: 90px;
+    margin: 0 auto;
+    position: relative;
+    }
